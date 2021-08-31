@@ -13,7 +13,7 @@ Check miscellaneous using nuclei miscellaneous tags.
 
 ### Description
 
-Check miscellaneous using nucleai exposed panels tags and insert vulnerabilities according to the template severity
+Check miscellaneous using nuclei miscellaneous tags and insert vulnerabilities according to the template severity
 
 ### How to develop
 
